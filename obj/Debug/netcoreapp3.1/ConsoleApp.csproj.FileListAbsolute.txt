@@ -1,0 +1,12 @@
+/Users/ethanphan/Projects/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.deps.json
+/Users/ethanphan/Projects/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.runtimeconfig.json
+/Users/ethanphan/Projects/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.runtimeconfig.dev.json
+/Users/ethanphan/Projects/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.dll
+/Users/ethanphan/Projects/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.pdb
+/Users/ethanphan/Projects/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csprojAssemblyReference.cache
+/Users/ethanphan/Projects/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.AssemblyInfoInputs.cache
+/Users/ethanphan/Projects/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.AssemblyInfo.cs
+/Users/ethanphan/Projects/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/ethanphan/Projects/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.dll
+/Users/ethanphan/Projects/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.pdb
+/Users/ethanphan/Projects/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.genruntimeconfig.cache
